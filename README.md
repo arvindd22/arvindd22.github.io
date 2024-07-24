@@ -11,6 +11,7 @@
 [Project work](https://github.com/arvindd22/Bayesian-Analysis-and-Inference)
 
 Stamatics IIT Kanpur Project
+
 Objective
 • To build probabilistic programming models using Bayesian Statistics to capture complex relations in data
 
