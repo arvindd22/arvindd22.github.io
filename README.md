@@ -4,7 +4,7 @@
 
 ## Education
 		        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Double Major Statistics and Data Science, Materials Science Engineering | Indian Institue of Technology Kanpur  (_2022-Present_)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
