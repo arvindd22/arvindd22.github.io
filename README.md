@@ -12,8 +12,7 @@ Double Major Statistics Data Science and Materials Science Engineering | Indian 
 ### Automated Data Extraction from Research Articles | Summer Project 
 [Project Work](github.com/arvindd22/Automated-Data-Extraction-from-Research-Articles)
 
-Mentor: Prof. Shivam Tripathi | Indian Institute of Technology Kanpur 
-May 2024 – July 2024
+Mentor: Prof. Shivam Tripathi | Indian Institute of Technology Kanpur | May 2024 – July 2024
 
 ##### Objective
 To retrieve research articles containing domain-specific keywords and graph plots using an automated tool.
