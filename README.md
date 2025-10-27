@@ -1,6 +1,6 @@
 # Junior Undergraduate at IIT Kanpur
 
-#### Technical Skills: C/C++ $|$ R $|$ Python $|$ JavaScript $|$ SQL
+#### Technical Skills: C/C++ | R | Python | JavaScript | SQL
 
 ## Education
 		        		
