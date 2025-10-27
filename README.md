@@ -45,7 +45,7 @@ Created user interaction with live typing indicators, dynamic client count, and 
 Managed real-time user sessions using connection/disconnection tracking and broadcast messaging.
 
 ### Mathematical Market Analysis 
-[Project Work]({https://github.com/arvindd22/Mathematics-in-Market-Analysis)
+[Project Work](https://github.com/arvindd22/Mathematics-in-Market-Analysis)
 MatSoc, IIT Kanpur | Dec 2024 – Jan 2025
 
 Implemented Monte Carlo methods in C++ (Rcpp) to validate the Black–Scholes analytical model for European options.
