@@ -1,6 +1,6 @@
 # Undergraduate at IIT Kanpur
 
-#### Technical Skills: C/C++ | R | Python | JavaScript | SQL
+#### Technical Skills: C/C++ | R | Python | SQL | JS
 
 ## Education
 		        		
@@ -9,21 +9,21 @@ Double Major Statistics Data Science and Materials Science Engineering | Indian 
 
 ## Research Work Experience
 
-### Automated Data Extraction from Research Articles | Summer Project 
-[Project Work](github.com/arvindd22/Automated-Data-Extraction-from-Research-Articles)
+### Automated Data Extraction from Research Articles 
+Summer Project [Project Work](github.com/arvindd22/Automated-Data-Extraction-from-Research-Articles)
 
 Mentor: Prof. Shivam Tripathi | Indian Institute of Technology Kanpur | May 2024 – July 2024
 
-##### Objective
+#### Objective
 To retrieve research articles containing domain-specific keywords and graph plots using an automated tool.
 Identify the graph plots, X–Y axis labels, and the embedded text from images contained in the articles.
 
-##### Approach
+#### Approach
 Scraped over 5000 research articles in XML format using elementtree and requests for text and image collection.
 Extracted text and X–Y axis labels from images using pytesseract, and classified articles based on keywords.
 Trained a YOLOv8 object detection model on 1000+ annotated graphs to accurately identify graphs in images.
 
-##### Outcome
+#### Outcome
 Achieved an accuracy score of 0.95 in graph detection and an F1 score of 0.86 using the trained YOLOv8 model.
 Obtained 0.90 and 0.94 accuracy scores for identifying X-axis and Y-axis labels respectively.
 Successfully developed a tool to automate and accelerate research by streamlining information extraction.
@@ -176,5 +176,7 @@ Implemented logistic regression and decision tree models using scikit-learn, rea
 
 
 ## Extra Curricular Activities
-Secretary Aeromodelling Club| Science and Technology Council
-Secretary | Raktarpan | Community Welfare Cell | IIT Kanpur
+Academic Department Mentor | MSE Department |
+Secretary Aeromodelling Club | Science and Technology Council |  
+Secretary Raktarpan | Community Welfare Cell | 
+Secretary Archery Society | IIT Kanpur 
